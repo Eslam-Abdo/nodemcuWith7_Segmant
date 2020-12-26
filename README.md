@@ -1,0 +1,1 @@
+# nodemcuWith7_Segmant
