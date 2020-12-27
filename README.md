@@ -1,4 +1,7 @@
 # nodemcuWith7_Segmant
+
+## GPIO & 7-Segmant init
+
 - [1. Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 - [2. 30+ MicroPython Projects, Tutorials and Guides with ESP32 / ESP8266](https://randomnerdtutorials.com/projects-esp32-esp8266-micropython/)
@@ -16,6 +19,16 @@
 - [8. class Pin – control I/O pins](http://docs.micropython.org/en/latest/library/machine.Pin.html)
 
 - [9. MicroPython tutorial for ESP8266](https://docs.micropython.org/en/latest/esp8266/tutorial/index.html) *important tutorial*
+
+## Acess point set up
+  - [1. MicroPython: ESP32/ESP8266 Access Point (AP)](https://randomnerdtutorials.com/micropython-esp32-esp8266-access-point-ap/)
+
+  - [2. ESP32/ESP8266 MicroPython Web Server – Control Outputs](https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/)
+
+## MIT App Invertor
+  - [1. How to Use MIT App Invertor](https://www.youtube.com/watch?v=qWKcOnoyBzE) 
+  - [2. ESP8266 Controlled with Android App (MIT App Inventor)](https://randomnerdtutorials.com/esp8266-controlled-with-android-app-mit-app-inventor/) *using .lua*
+  - [3. Build an ESP8266 Web Server – Code and Schematics (NodeMCU)](https://randomnerdtutorials.com/esp8266-web-server/) *using .lua*
 
 ## ESP8266 Pinouts maping:
 ```python
