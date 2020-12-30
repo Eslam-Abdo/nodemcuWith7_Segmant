@@ -26,6 +26,11 @@
   - [1. MicroPython: ESP32/ESP8266 Access Point (AP)](https://randomnerdtutorials.com/micropython-esp32-esp8266-access-point-ap/)
 
   - [2. ESP32/ESP8266 MicroPython Web Server – Control Outputs](https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/)
+  
+  - [3. MicroPython: DS18B20 Temperature Sensor with ESP32 and ESP8266](https://randomnerdtutorials.com/micropython-ds18b20-esp32-esp8266/)
+  
+  - [4.MicroPython: ESP32/ESP8266 with DHT11/DHT22 Web Server (Weather Station))](https://randomnerdtutorials.com/micropython-esp32-esp8266-dht11-dht22-web-server/)
+  
 
 ## MIT App Invertor
   - [1. How to Use MIT App Invertor](https://www.youtube.com/watch?v=qWKcOnoyBzE) 
