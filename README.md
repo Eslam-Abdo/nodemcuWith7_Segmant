@@ -1,10 +1,12 @@
 # nodemcuWith7_Segmant
 
-## GPIO & 7-Segmant init
+## Getting Started
 
 - [1. Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 - [2. 30+ MicroPython Projects, Tutorials and Guides with ESP32 / ESP8266](https://randomnerdtutorials.com/projects-esp32-esp8266-micropython/)
+
+- [9. MicroPython tutorial for ESP8266](https://docs.micropython.org/en/latest/esp8266/tutorial/index.html) *important tutorial*
 
 - [3. Install uPyCraft IDE – Windows PC Instructions](https://randomnerdtutorials.com/install-upycraft-ide-windows-pc-instructions/)
 
@@ -12,15 +14,23 @@
 
 - [5. Getting Started with MicroPython on ESP32 and ESP8266](https://randomnerdtutorials.com/getting-started-micropython-esp32-esp8266/)
 
-- [6. Interacting with GPIOs](https://randomnerdtutorials.com/micropython-gpios-esp32-esp8266/)
 
-- [7. How 7 Segment Displays work](https://randomnerdtutorials.com/circuits-7-segment-displays/)
 
-- [8. class Pin – control I/O pins](http://docs.micropython.org/en/latest/library/machine.Pin.html)
+## GPIO & 7-Segmant init
 
-- [9. MicroPython tutorial for ESP8266](https://docs.micropython.org/en/latest/esp8266/tutorial/index.html) *important tutorial*
+- [1. Interacting with GPIOs](https://randomnerdtutorials.com/micropython-gpios-esp32-esp8266/)
 
-- [10. Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+- [2. MicroPython: Interrupts with ESP32 and ESP8266](https://randomnerdtutorials.com/micropython-interrupts-esp32-esp8266/)
+
+- [3. How 7 Segment Displays work](https://randomnerdtutorials.com/circuits-7-segment-displays/)
+
+- [4. class Pin – control I/O pins](http://docs.micropython.org/en/latest/library/machine.Pin.html)
+
+- [5. utime – time related functions]
+
+- [5. Python OOP  - Python Classes and Objects](https://www.w3schools.com/python/python_classes.asp)
+
+- [6. MicroPython Basics: Loading Modules](https://www.digikey.com/en/maker/projects/micropython-basics-loading-modules/9560902ac9654f7e91f098e723d097ad)
 
 ## Acess point set up
   - [1. MicroPython: ESP32/ESP8266 Access Point (AP)](https://randomnerdtutorials.com/micropython-esp32-esp8266-access-point-ap/)
@@ -36,6 +46,16 @@
   - [1. How to Use MIT App Invertor](https://www.youtube.com/watch?v=qWKcOnoyBzE) 
   - [2. ESP8266 Controlled with Android App (MIT App Inventor)](https://randomnerdtutorials.com/esp8266-controlled-with-android-app-mit-app-inventor/) *using .lua*
   - [3. Build an ESP8266 Web Server – Code and Schematics (NodeMCU)](https://randomnerdtutorials.com/esp8266-web-server/) *using .lua*
+  - [4. NodeMcu (ESP8266) Tutorial B-07: Get sensor data from NODEMCU with your Android phone](https://www.youtube.com/watch?v=wwuPzOdqcmY&list=PLfPtpZzK2Z_Qy2ZbbzvWa58cKKOisMUZ1&index=41)
+  - [4. Username and Password](https://community.appinventor.mit.edu/t/username-and-password/4499)
+  - [5. WiFi Manager Extension **optional**](https://puravidaapps.com/wifi.php)
+  - [6. Build an App with App Inventor which can display values of a connected sensor](https://home.et.utwente.nl/slootenvanf/2018/11/22/build-app-inventor-display-connected-sensor/) *important*
+  - [7. App Inventor 2 - ESP8266 GPIO Control with Nodemcu LUA](https://www.youtube.com/watch?v=qWKcOnoyBzE)
+
+  
+  ##Useful Tutorial
+  
+  -[Easy Coding ESP8266 Tutorial *playlist*](https://www.youtube.com/playlist?list=PLfPtpZzK2Z_Qy2ZbbzvWa58cKKOisMUZ1)
 
 ## ESP8266 Pinouts maping:
 ```python
