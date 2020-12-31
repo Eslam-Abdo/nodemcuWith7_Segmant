@@ -61,10 +61,22 @@ D9  = 3
 D10 = 1
 A0 = 0
 ```
-![ESP8266 Pinouts](./pins.png)
 
 ### *Note*
 - Built in Led On Pin D4 So I think it limit in current and the LED is *active LOW*
 - PIN D0 is only input without PULL
 - you can use Left side pin only as GPIO pins 
 - you have only pin A0 as Anlong pin
+
+## ESP8266 Pinouts
+![ESP8266 Pinouts](./pics/noudemcu-viersion.png)
+
+
+## Symbol
+![Symbol](./pics/7-segment-display-with-nodemccu-over-wifi-using-arduino-ide_orig.png)
+
+## Binary to BCD truth table
+![truth table](./pics/truth-table-bcd-decoder.png)
+
+
+
