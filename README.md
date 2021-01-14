@@ -20,7 +20,7 @@
       - [programming page](http://micropython.org/webrepl/)
       - [rebo of webrebl to download page html for use offline](https://github.com/micropython/webrepl)
       - [File Handling using python](https://www.w3schools.com/python/python_file_handling.asp)
-      - Get a list of files with Python 3 (useing listdir in os module you get the files and the folders in the current dir)
+      - [Get a list of files with Python 3 (useing listdir in os module you get the files and the folders in the current dir)](https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory)
         ```python
         import os
         arr = os.listdir()
@@ -42,6 +42,13 @@
   - [2. ESP32/ESP8266 MicroPython Web Server – Control Outputs](https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/)
   - [3. MicroPython: DS18B20 Temperature Sensor with ESP32 and ESP8266](https://randomnerdtutorials.com/micropython-ds18b20-esp32-esp8266/) 
   - [4.MicroPython: ESP32/ESP8266 with DHT11/DHT22 Web Server (Weather Station))](https://randomnerdtutorials.com/micropython-esp32-esp8266-dht11-dht22-web-server/)
+  
+## Deep sleep Mode
+  - [1. ESP8266 Deep Sleep and Wake Up Sources](https://randomnerdtutorials.com/micropython-esp8266-deep-sleep-wake-up-sources/)
+  - [2. Power control *micropython.org*](http://docs.micropython.org/en/v1.9.2/esp8266/esp8266/tutorial/powerctrl.html)
+  - [3. ESP8266 Low Power Solutions](https://www.espressif.com/sites/default/files/9b-esp8266-low_power_solutions_en_0.pdf)
+  - [4. Low Power Weather Station Datalogger using ESP8266 and BME280 with MicroPython](https://randomnerdtutorials.com/low-power-weather-station-datalogger-using-esp8266-bme280-micropython/)
+  
 
 ## MIT App Invertor
   - [1. How to Use MIT App Invertor](https://www.youtube.com/watch?v=qWKcOnoyBzE) 
@@ -87,6 +94,15 @@ A0 = 0
 
 ## Binary to BCD truth table
 ![truth table](./pics/truth-table-bcd-decoder.png)
+
+##  How to create sockets for server-client interaction
+![socket-server](./pics/socket-server.png)
+
+## Differences between 3 Sleep Modes
+![Sleep Modes](./pics/sleep_modes.png)
+
+## Circuit Diagram
+![Circuit Diagram](./pics/diagram.png)
 
 
 
