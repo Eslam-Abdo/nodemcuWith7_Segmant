@@ -17,6 +17,15 @@
   ### How to Load MicroPython on a Board
    - [Serial REPL](https://learn.adafruit.com/micropython-basics-how-to-load-micropython-on-a-board/serial-terminal?view=all#serial-terminal)
    - [ WebREPL](https://learn.adafruit.com/micropython-basics-esp8266-webrepl)
+      - [programming page](http://micropython.org/webrepl/)
+      - [rebo of webrebl to download page html for use offline](https://github.com/micropython/webrepl)
+      - [File Handling using python](https://www.w3schools.com/python/python_file_handling.asp)
+      - Get a list of files with Python 3 (useing listdir in os module you get the files and the folders in the current dir)
+        ```python
+        import os
+        arr = os.listdir()
+        print(arr)
+        ```
 
 
 ## GPIO & 7-Segmant init
