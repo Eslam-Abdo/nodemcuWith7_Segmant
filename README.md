@@ -59,9 +59,9 @@
   - [5. WiFi Manager Extension **optional**](https://puravidaapps.com/wifi.php)
   - [6. Build an App with App Inventor which can display values of a connected sensor](https://home.et.utwente.nl/slootenvanf/2018/11/22/build-app-inventor-display-connected-sensor/) *important*
   - [7. App Inventor 2 - ESP8266 GPIO Control with Nodemcu LUA](https://www.youtube.com/watch?v=qWKcOnoyBzE)
-  - [8.Reading QR code](https://www.youtube.com/watch?v=jIfpHpb4k1k)
-  - [9.Using MIT App Inventor Offline](https://www.youtube.com/watch?v=FA4a31Fg2Wo)
-  - [10.Progress of App Inventor for iOS](http://doesappinventorrunonios.com)
+  - [8. Reading QR code](https://www.youtube.com/watch?v=jIfpHpb4k1k)
+  - [9. Using MIT App Inventor Offline](https://www.youtube.com/watch?v=FA4a31Fg2Wo)
+  - [10. Progress of App Inventor for iOS](http://doesappinventorrunonios.com)
 
 ## ESP8266 Pinouts maping:
 ```python
