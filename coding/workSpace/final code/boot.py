@@ -53,7 +53,8 @@ while ap.active() == False:
 print('Connection successful')
 print(ap.ifconfig())
 #print(station.ifconfig())##for wifi station##
-
+#Led_BuiltIn = machine.Pin(2 , machine.Pin.OUT)
+#Led_BuiltIn.off()
 
 
 
