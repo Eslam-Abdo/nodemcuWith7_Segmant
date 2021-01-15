@@ -105,7 +105,7 @@ A0 = 0
 ![Circuit Diagram](./pics/diagram.png)
 
 ## MIT App Inventor
-![Answer](./pics/ios.png)
+![Answer](./pics/ios.PNG)
 
 
 
