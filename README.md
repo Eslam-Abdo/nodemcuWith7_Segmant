@@ -104,5 +104,10 @@ A0 = 0
 ## Circuit Diagram
 ![Circuit Diagram](./pics/diagram.png)
 
+## MIT App Inventor for iOS
+![Answer](./pics/ios.PNG)
+
+
+
 
 

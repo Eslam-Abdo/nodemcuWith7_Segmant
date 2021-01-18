@@ -1,4 +1,4 @@
-from machine import Pin,ADC
+from machine import Pin
 from utime import sleep_ms
 
 from display import SegmantDisplay
