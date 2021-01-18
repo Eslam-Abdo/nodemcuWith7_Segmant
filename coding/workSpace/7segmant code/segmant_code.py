@@ -3,6 +3,7 @@ from utime import sleep_ms
 
 from display import SegmantDisplay
 
+num = 0 
 
 def callback(pin):
     state = machine.disable_irq()
@@ -28,6 +29,7 @@ seg.decrease.irq(trigger=Pin.IRQ_FALLING, handler=callback)
 seg.reset.irq(trigger=Pin.IRQ_FALLING, handler=callback)
 
 num=seg.Display(num)
+
 
 
 
