@@ -1,5 +1,5 @@
 # nodemcuWith7_Segmant
-
+## project video [*(click here to all videos)*](https://drive.google.com/drive/folders/1r0zepQS2k2B7NYq5-uNhiJdKVNSH9e6j)
 [![final-project](./pics/final-project.png)](https://drive.google.com/file/d/1NUZLs1GV3kEmIWK_TUJsUkPwqWlPzE9Z/view?usp=sharing)
 
 ## 1. Useful Tutorial
