@@ -1,5 +1,7 @@
 # nodemcuWith7_Segmant
 
+![final-project](./pics/final-project.M4V)
+
 ## 1. Useful Tutorial
   - [1. Python Tutorial](https://www.w3schools.com/python/default.asp)
   - [2. 30+ MicroPython Projects, Tutorials and Guides with ESP32 / ESP8266](https://randomnerdtutorials.com/projects-esp32-esp8266-micropython/)
