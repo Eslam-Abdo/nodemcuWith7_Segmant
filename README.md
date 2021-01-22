@@ -1,6 +1,6 @@
 # nodemcuWith7_Segmant
 
-[![final-project](./pic/final-project.png)](https://drive.google.com/file/d/1NUZLs1GV3kEmIWK_TUJsUkPwqWlPzE9Z/view?usp=sharing)
+[![final-project](./pics/final-project.png)](https://drive.google.com/file/d/1NUZLs1GV3kEmIWK_TUJsUkPwqWlPzE9Z/view?usp=sharing)
 
 ## 1. Useful Tutorial
   - [1. Python Tutorial](https://www.w3schools.com/python/default.asp)
