@@ -101,13 +101,16 @@ A0 = 0
 ## Differences between 3 Sleep Modes
 ![Sleep Modes](./pics/sleep_modes.png)
 
-## Circuit Diagram
-![Circuit Diagram](./pics/diagram.png)
-
 ## MIT App Inventor for iOS
 ![Answer](./pics/ios.PNG)
 
-
+## Pcb Deisgn
+### 3D Model [*cleck here to view*](https://a360.co/3qI3qZ3)
+![3d-model](./pics/pcb-pic/3d-model.png)
+### Board
+![board](./pics/pcb-pic/board.png)
+### Schmatic digram
+![schmatic](./pics/pcb-pic/schmatic.png)
 
 
 
