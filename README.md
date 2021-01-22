@@ -107,10 +107,10 @@ A0 = 0
 ## Pcb Deisgn
 ### 3D Model [*cleck here to view*](https://a360.co/3qI3qZ3)
 ![3d-model](./pics/pcb-pic/3d-model.png)
-### Board
-![board](./pics/pcb-pic/board.png)
 ### Schmatic digram
 ![schmatic](./pics/pcb-pic/schmatic.png)
+### Board
+![board](./pics/pcb-pic/board.png)
 
 
 
