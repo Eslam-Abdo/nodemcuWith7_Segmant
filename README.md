@@ -1,4 +1,11 @@
-# nodemcuWith7_Segmant
+# Basic IoT project using ESP8266 (nodemcu) by microPython
+### Requirement: 
+change 7-segment's number using (Mobile app or hardware buttons) and display number on both (7-segment and mobile App) in real-time,
+there are 3 buttons:
+1. Increase
+2. Decrease
+3. Reset -to reset number to zero-
+
 ## project video [*(click here to all videos)*](https://drive.google.com/drive/folders/1r0zepQS2k2B7NYq5-uNhiJdKVNSH9e6j)
 [![final-project](./pics/final-project.png)](https://drive.google.com/file/d/1NUZLs1GV3kEmIWK_TUJsUkPwqWlPzE9Z/view?usp=sharing)
 
