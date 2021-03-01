@@ -1,4 +1,4 @@
-# Basic IoT project using ESP8266 (nodemcu) by microPython
+# Basic IoT project using ESP8266 (nodemcu) and microPython
 ### Requirement: 
 change 7-segment's number using (Mobile app or hardware buttons) and display number on both (7-segment and mobile App) in real-time,
 there are 3 buttons:
