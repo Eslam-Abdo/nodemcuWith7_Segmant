@@ -7,7 +7,7 @@ there are 3 buttons:
 3. Reset -to reset number to zero-
 
 ## project video [*(click here to all videos)*](https://drive.google.com/drive/folders/1r0zepQS2k2B7NYq5-uNhiJdKVNSH9e6j)
-[![final-project](./pics/final-project.png)](https://youtu.be/9_iaaBCvHjw)
+[![final-project](./pics/final-project.png)](https://youtu.be/lskKCid2X2E)
 
 ## 1. Useful Tutorial
   - [1. Python Tutorial](https://www.w3schools.com/python/default.asp)
